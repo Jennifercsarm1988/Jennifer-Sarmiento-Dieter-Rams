@@ -1,3 +1,48 @@
-body {
-    background-color: lightblue;
+body {background-color:lightblue
+}
+h1{
+   font-family: "Luxi Sans", serif;
+    font-size: 200%;
+    font-weight: bold;
+    color:#ff8000;
+}
+h2,h3,h4,h5,h6 {
+   font-family: "Georgia", serif;
+    font-size: 125%;
+    font-weight: bold;
+    color:#cc9966;
+}
+#centerthis{
+	position:relative;
+	left:40%;
+}
+#mainContainer{
+	padding-righ:30px;
+	padding-left:30px;
+}
+.nav{
+	padding-left:30px;
+}
+h2{
+	position:relative;
+	left:50%;
+}
+ h2{
+    line-height: 200%;
+}
+h3,h4,h5,h6,a{
+    line-height: 170%;
+}
+
+a{
+   font-family: "Luxi Sans", serif;
+    font-size: 125%;
+    font-weight: bold;
+}
+p{
+   font-family: "Luxi Sans", serif;
+    font-size: 120%;
+}
+p{
+    text-align:  justify,center;
 }
